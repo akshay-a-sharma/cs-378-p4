@@ -1,0 +1,7 @@
+
+.button {
+  @apply bg-blue-300 hover:bg-blue-500 text-white font-semibold py-2 w-36 mx-3 my-3 rounded-full;
+}
+.login-button{
+  @apply bg-green-300 hover:bg-green-500 text-white font-semibold py-2 w-24 mx-3 rounded-full;
+}
