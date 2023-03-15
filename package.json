@@ -2,7 +2,7 @@
   "name": "hci-p3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akshay-a-sharma.github.io/cs378-p3",
+  "homepage": "https://akshay-a-sharma.github.io/cs378-p4",
   "dependencies": {
     "@auth0/auth0-react": "^2.0.1",
     "@testing-library/jest-dom": "^5.16.5",
